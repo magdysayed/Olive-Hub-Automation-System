@@ -1,0 +1,17 @@
+
+**factory**: address - phone - email - name - amount - price - Olive Type - Product State
+**store**: address - phone - email - name - amount - price - type - Olive Type - Product State
+**seller**: address - phone - email - name - amount - price - Olive Type - Product State
+
+-take data from (telegarm - whatsapp)
+-store data in google sheet(3 parsts [factory-store-seller])
+-dashboard([factory-store-seller] with details)
+-if ask for a request (1- suggestions on whatsapp 2-check on dashboard 3-send message for all stores)
+ex. [factory] ask for a 10 ton of olive >> 1-mohamed has it in mansoura 2- you can check it on [link] #3- send message for all store owners 
+-message every day check transactions.
+
+
+**tools**
+-- database (google sheet)
+-- Dashboard (web page)
+-- automation (n8n)
